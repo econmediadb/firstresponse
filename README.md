@@ -5,6 +5,7 @@
 ## Improve Cardiac Arrest Survival
 
 - educate and train the public in CPR
+- effective treatments for specific types of cardiac arrest are widely available and could reduce deaths and disability if they were more efficiently implemented
 - wide diversity in survival rates in communities : In some communities more than 60 percent of persons with out-of-hospital cardiac arrest (due to bystander-witnessed ventricular fibrillation) survive and are discharged from the hospital. In far more communities, the survival rate is 10 percent or less.
 - challenges and barriers to successfully treat cardiac arrest
 - primary goal: provide high-quality care quickly
@@ -19,7 +20,10 @@
 
 ## Glossary
 
+AED : automated external defibrillator
 CPR : cardiopulmonary resuscitation
+EMS : emergency medical services
+
 
 ## Sources
 
