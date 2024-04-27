@@ -15,14 +15,36 @@
   4. provide a defibrillatory shock (if required)
   5. achieve airway control
 - cardiac arrest chain of survival ([illustration](https://www.aed.us/blog/wp-content/uploads/2019/03/chain-of-survival.png))
-- unifying framework for improving patient outcomes from cardiac arrest ( [illustartion](https://nap.nationalacademies.org/openbook/23695/xhtml/images/img-18-1.jpg) )
+- unifying framework for improving patient outcomes from cardiac arrest ( [illustration](https://nap.nationalacademies.org/openbook/23695/xhtml/images/img-18-1.jpg) )
 - establish a <em>national cardiac arrest registry</em> ( [data for Luxembourg](https://112.public.lu/dam-assets/fr/publications/rapports/ohca/ohca-rapport-annuel-2021-english-v30-clean.pdf) ) 
+- improved patient outcomes are more likely when the different actors in the society collaborate and coordinate their activities:
+  1. comprehensive surveillance and reporting
+  2. community engagement
+  3. new treatments and treatment paradigms
+  4. training and education
+  5. local translation of research into practice
+  6. continuous quality improvement
+-  Defining <em>cardiac arrest</em> : Cardiac arrest is a severe malfunction or cessation of the electrical and mechanical activity of the heart. Under normal circumstances, the sinoatrial node initiates and sends an electrical signal to the right and left atria, causing the atria to contract and pump blood into the ventricles. The electrical signal then travels from the atrioventricular node to the right and left ventricles, causing them to contract in a coordinated sequence and pump blood out of the heart to the lungs and the rest of the body. When the signal dissipates, the ventricles relax, and the process begins again after a normal delay. Although the terms are often used interchangeably in the media and casual conversation, cardiac arrest is different and medically distinct from a heart attack (i.e., a myocardial infarction). Compare this to a heart attack, a condition in which blood flow to an area of the heart is blocked by a narrowed or completely obstructed coronary artery. This causes inadequate oxygenation and subsequent injury or death to a portion of the heart. [video that explains the difference](https://www.youtube.com/watch?v=KPKLq-LQjbc)
+-  The symptoms of a **cardiac arrest** are : 
+  1. instantanous loss of consciousness and collapse
+  2. absent or abnormal breathing (e.g., gasping or agonal breaths)
+- The symptoms of a **heart attack** are :
+  1. chest pain
+  2. shortness of breath
+  3. sweatiness
+  4. dizziness
+- a heart attack can cause cardiac arrest
+- recognizing a heart attack : [3D animation](https://www.youtube.com/watch?v=Lj7gM6eIDu0)
+- out of hospital cardiac arrest [video](https://www.youtube.com/watch?v=J8jbwRHrN4o) and [3D look inside the body](https://www.youtube.com/watch?v=DUaxt8OlT3o)
 
 ## Glossary
 
+ACLS : advanced cardiac life support
 AED : automated external defibrillator
 CPR : cardiopulmonary resuscitation
 EMS : emergency medical services
+IHCA : in-hospital cardiac arrest
+OHCA : out-of-hospital cardiac arrest
 
 
 ## Sources
