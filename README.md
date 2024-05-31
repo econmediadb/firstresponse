@@ -37,20 +37,35 @@
 - recognizing a heart attack : [3D animation](https://www.youtube.com/watch?v=Lj7gM6eIDu0)
 - out of hospital cardiac arrest [video](https://www.youtube.com/watch?v=J8jbwRHrN4o) and [3D look inside the body](https://www.youtube.com/watch?v=DUaxt8OlT3o)
 
+
+## First Aid
+
+### ABCs of First Aid 
+
+- **Airway**: If someone’s not breathing, the first thing you need to do is open their airway.
+- **Breathing**: If you have cleared a person’s airway but they’re still not breathing, provide rescue breathing.
+- **Circulation**: As you are doing rescue breathing, perform chest compressions to keep the person’s blood circulating. If the person is not responsive, check their pulse. If their heart has stopped, provide chest compressions.
+- **Disability** assessment, deadly bleeding, or automated external defibrillator (AED). An AED is a device that shocks the heart to make it start beating again.
+- **Examination** (checking the person for signs of injury, bleeding, allergies, or other problems once you know they’re breathing and their heart is beating).
+
+
 ## Glossary
 
-ACLS : advanced cardiac life support
-AED : automated external defibrillator
-CPR : cardiopulmonary resuscitation
-EMS : emergency medical services
-IHCA : in-hospital cardiac arrest
-OHCA : out-of-hospital cardiac arrest
+ACLS : advanced cardiac life support <br>
+AED : automated external defibrillator <br>
+CPR : cardiopulmonary resuscitation <br>
+EMS : emergency medical services <br>
+IHCA : in-hospital cardiac arrest <br>
+OHCA : out-of-hospital cardiac arrest <br>
 
 
 ## Sources
 
-Graham, Robert, Margaret A. McCoy, and Andrea M. Schultz, eds. Strategies to Improve Cardiac Arrest Survival :  : A Time to Act /. Washington, District of Columbia: The National Academies Press, 2015. Print.
+Graham, Robert, Margaret A. McCoy, and Andrea M. Schultz, eds. Strategies to Improve Cardiac Arrest Survival :  : A Time to Act /. Washington, District of Columbia: The National Academies Press, 2015. Print. <br>
 
+<br>
+
+[First Aid Instructions for 10 Medical Emergencies](First Aid Instructions for 10 Medical Emergencies)
 
 
 
